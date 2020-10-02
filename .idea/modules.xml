@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidGridLayout.iml" filepath="$PROJECT_DIR$/AndroidGridLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidGridLayout-master.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidGridLayout-master.iml" group="AndroidGridLayout-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="AndroidGridLayout-master/app" />
+    </modules>
+  </component>
+</project>
